@@ -9,7 +9,7 @@ Started my coding journey in 2021 and now I can't hit the brakes! Currently work
 * 📚 Learning React
 * 🌎 Languages: English, Spanish, Portuguese
 * 🔗 [My Website](http://www.lucasgontijo.com "lucasgontijo.com")
-* 🔎 Allways learning
+* 🔎 Always learning new things
 
 ## My Skills
 
