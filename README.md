@@ -23,8 +23,8 @@ Started my coding journey in 2021 and now I can't hit the brakes! Currently work
   
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
   
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  
+<img src="https://user-images.githubusercontent.com/94650197/168640949-ccbb6be8-83e2-4c91-b3c4-8efe1988fd35.svg" width="36" height="36" alt="Git" />
+
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   
 </p>
