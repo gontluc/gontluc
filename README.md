@@ -2,7 +2,7 @@
 
 ## I am a Frontend Developer who also likes algorithms!
 
-Started my coding journey in 2021 and now I can't hit the brakes! Currently working with HTML, CSS and JS. Feel free to check out my [Website](https://www.lucasgontijo.com "lucasgontijo.com").
+Started my coding journey in 2021 and now I can't hit the brakes! Currently learning React.js. Feel free to check out my [Website](https://www.lucasgontijo.com "lucasgontijo.com").
 
 * 🏠 In Spain at the moment
 * 💻 Working with HTML CSS JS
