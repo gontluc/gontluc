@@ -5,8 +5,7 @@
 Started my coding journey in 2021 and now I can't hit the brakes! Currently working with React.js. Feel free to check out my [Website](https://www.lucasgontijo.com "lucasgontijo.com").
 
 * 🏠 In Spain at the moment
-* 💻 Working with HTML CSS JS
-* 📚 Learning React
+* 💻 Working with HTML CSS JS React.js
 * 🌎 Languages: English, Spanish, Portuguese
 * 🔗 [My Website](https://www.lucasgontijo.com "lucasgontijo.com")
 * 🔎 Always learning new things
