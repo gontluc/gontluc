@@ -5,7 +5,7 @@
 Started my coding journey in 2021 and now I can't hit the brakes! Currently working with React.js. Feel free to check out my [Website](https://www.lucasgontijo.com "lucasgontijo.com").
 
 * 🏠 In Spain at the moment
-* 💻 Working with HTML CSS JS React.js
+* 💻 Working with React.js
 * 🌎 Languages: English, Spanish, Portuguese
 * 🔗 [My Website](https://www.lucasgontijo.com "lucasgontijo.com")
 * 🔎 Always learning new things
@@ -27,4 +27,14 @@ Started my coding journey in 2021 and now I can't hit the brakes! Currently work
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   
 <img src="https://user-images.githubusercontent.com/94650197/168806536-af8d65fb-a125-4d9d-b112-039608f929fe.png" width="36" height="36" alt="Chrome-Dev-Tools" />
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
 
